@@ -39,6 +39,8 @@ public class Main {
 		
 		System.out.printf("é igual a: %.4f", soma/nProdutos);
 		
+		sc.close();
+		
 	}
 
 }
